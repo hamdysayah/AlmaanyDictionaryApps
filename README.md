@@ -17,3 +17,5 @@ https://play.google.com/store/apps/developer?id=معجم+المعاني+Almaany.
 رابط التطبيقات على ابل ستور 
 https://apps.apple.com/tr/developer/atef-sharia/id952606462
 
+
+تم تطوير القواميس بإستخدام Flutter
